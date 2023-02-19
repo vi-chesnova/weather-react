@@ -8,6 +8,12 @@ function App() {
         <h1>Weather App</h1>
         <CitySearch />
       </header>
+      <footer>
+        <a href="https://github.com/vi-chesnova/weather-react">
+          Open-sourse code
+        </a>{" "}
+        by Victoria Chesnova
+      </footer>
     </div>
   );
 }
